@@ -9,4 +9,4 @@ Example extension for [AirDC++ Web Client](https://airdcpp-web.github.io) writte
 - [AirDC++ (Windows)](https://www.airdcpp.net): version 4.10 or newer
 ## Installation
 
-Click *Install from URL* on the extension catalog page and paste the URL of the [latest release](https://github.com/airdcpp-web/airdcpp-example-python-extension/releases) (.tar.gz format only).
+Click *Install from URL* on the extension catalog page and paste the URL of the [latest tag](https://github.com/airdcpp-web/airdcpp-example-python-extension/tags) (.tar.gz format only).
